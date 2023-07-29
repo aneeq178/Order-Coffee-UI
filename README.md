@@ -1,16 +1,13 @@
-# animation2
+# Coffee Order UI
 
-A new Flutter project.
+Coffee Order UI using flutter animations
 
-## Getting Started
+## Concepts Used:
+1. Arc Text
+2. Animations
 
-This project is a starting point for a Flutter application.
+![img1](https://github.com/aneeq178/Order-Coffee-UI/assets/124577030/9cf79bf1-949a-493c-8b59-21bed2d19062)
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/aneeq178/Order-Coffee-UI/assets/124577030/6e60795f-882c-4ca7-835a-0c0a11f913fa
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
